@@ -1,0 +1,16 @@
+# Ignore DB config file
+db.php
+test.php
+
+# Ignore environment files if any
+.env
+
+# Ignore system and IDE files
+.DS_Store
+Thumbs.db
+*.log
+*.bak
+
+# Ignore XAMPP sessions/cache
+/tmp
+/cache
